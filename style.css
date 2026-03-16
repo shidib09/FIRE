@@ -278,7 +278,7 @@ strong { font-weight: 500; color: var(--text); }
   position: relative;
 }
 .rate-card.active::before {
-  content: '← This is us';
+  content: '← Our rate';
   position: absolute;
   top: -12px;
   right: 1rem;
